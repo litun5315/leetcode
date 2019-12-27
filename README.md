@@ -2,7 +2,7 @@
 
 Introduction : 
 
-Teng's Problem solvings on [LeetCode](leetcode-cn.com) is released in this repository.
+Teng's Problem solvings on [LeetCode](leetcode-cn.com) are released in this repository.
 
 ## document structer
 
