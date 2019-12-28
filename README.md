@@ -22,3 +22,5 @@ Teng's Problem solvings on [LeetCode](leetcode-cn.com) are released in this repo
 - Dec.28th, 2019
   - 21 - 合并两个有序链表
   - To get more information, check [cnBlog](https://www.cnblogs.com/litun/p/12112908.html).
+  - 2 - 两数相加
+  - To get more information, check [cnBlog](https://www.cnblogs.com/litun/p/12112941.html).
