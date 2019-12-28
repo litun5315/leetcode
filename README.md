@@ -24,3 +24,6 @@ Teng's Problem solvings on [LeetCode](leetcode-cn.com) are released in this repo
   - To get more information, check [cnBlog](https://www.cnblogs.com/litun/p/12112908.html).
   - 2 - 两数相加
   - To get more information, check [cnBlog](https://www.cnblogs.com/litun/p/12112941.html).
+  - 3 - 三数之和
+  - To get more information, check [cnBlog](https://www.cnblogs.com/litun/p/12113072.html).
+  
