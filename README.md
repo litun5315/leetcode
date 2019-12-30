@@ -26,3 +26,5 @@ Teng's Problem solvings on [LeetCode](leetcode-cn.com) are released in this repo
 - Dec.29th, 2019
   - 4 - 寻找两个有序数组的中位数 [cnBlog](https://www.cnblogs.com/litun/p/12116879.html).
   
+- Dec.30th, 2019
+  - 5 - 最长回文子串 [cnBlog](https://www.cnblogs.com/litun/p/12122233.html).
