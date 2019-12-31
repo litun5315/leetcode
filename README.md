@@ -28,3 +28,6 @@ Teng's Problem solvings on [LeetCode](leetcode-cn.com) are released in this repo
   
 - Dec.30th, 2019
   - 5 - 最长回文子串 [cnBlog](https://www.cnblogs.com/litun/p/12122233.html).
+
+- Dec.31st, 2019
+  - 771 - 宝石与石头 [cnBlog](https://www.cnblogs.com/litun/p/12127840.html).
