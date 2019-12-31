@@ -31,3 +31,4 @@ Teng's Problem solvings on [LeetCode](leetcode-cn.com) are released in this repo
 
 - Dec.31st, 2019
   - 771 - 宝石与石头 [cnBlog](https://www.cnblogs.com/litun/p/12127840.html).
+  - 1304 - 和为零的N个唯一整数 [cnBlog](https://www.cnblogs.com/litun/p/12127859.html).
