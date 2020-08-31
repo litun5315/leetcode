@@ -1,17 +1,6 @@
-# LeetCode
+# README
 
-Introduction :
-
-Teng's Problem solvings on [LeetCode](leetcode-cn.com) are released in this repository.
-
-## document structer
-
-```
-·
-|-- code
-|-- blog
-\-- img
-```
+A log of problem solving on leetcode.com.
 
 ## log
 
