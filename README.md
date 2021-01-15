@@ -1,8 +1,12 @@
 # README
 
-A log of problem solving on leetcode.com.
+Logs of problem solving on [leetCode](https://leetcode-cn.com).
 
 ## log
+
+- Jan.16th, 2020
+  - 4 - 寻找两个正序数组的中位数 [cnBlog](https://www.cnblogs.com/litun/p/letcode_solution_4.html).
+  - 88 - 合并两个有序数组 [cnBlog](https://www.cnblogs.com/litun/p/leetcode_solution__88.html).
 
 - Dec.27th, 2019
   - 3 - 无重复字符串的最大子串 [cnBlog](https://www.cnblogs.com/litun/p/12108304.html).
