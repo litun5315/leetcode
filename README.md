@@ -4,7 +4,10 @@ Logs of problem solving on [leetCode](https://leetcode-cn.com).
 
 ## log
 
-- Jan.16th, 2020
+- Jan.16th, 2021
+  - 5 - 最长回文子串 [cnBlog]([最长回文子串 (No.5)](https://www.cnblogs.com/litun/p/leetcode_solution_5.html))
+
+- Jan.15th, 2021
   - 4 - 寻找两个正序数组的中位数 [cnBlog](https://www.cnblogs.com/litun/p/letcode_solution_4.html).
   - 88 - 合并两个有序数组 [cnBlog](https://www.cnblogs.com/litun/p/leetcode_solution__88.html).
 
